@@ -1,4 +1,4 @@
-# Biolog ERP
+# Manufacturing ERP Platform
 
 A full-stack manufacturing execution system (MES) built for biotech/pharmaceutical production environments. Manages the complete lifecycle of work orders — from BOM configuration and document templating through QR-scanned workflow execution to NetSuite ERP synchronization — all with sub-second UI updates powered by a custom realtime caching infrastructure.
 
