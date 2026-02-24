@@ -46,7 +46,7 @@ A full-stack manufacturing execution system (MES) built for biotech/pharmaceutic
 
 ## Architecture Overview
 
-Biolog is a two-process application:
+This is a two-process application:
 
 | Process | Framework | Port | Role |
 |---------|-----------|------|------|
@@ -637,7 +637,7 @@ The **SSEProvider** maintains a single SSE connection per browser tab with:
 ## Project Structure
 
 ```
-biolog/
+/
 ├── src/
 │   ├── app/                          # Next.js App Router
 │   │   ├── (pages)/
